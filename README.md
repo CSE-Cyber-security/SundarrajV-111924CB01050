@@ -39,7 +39,3 @@ No build step or dependencies are needed.
 ## Screenshots
 
 Screenshots of the running application are in the `screenshots/` folder.
-
-## Author
-
-Your Name — Roll No: 000000
